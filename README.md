@@ -2,4 +2,4 @@
 
 ## Git Practice
 
-### How dose he solve this problem...?
+### How does he solve this problem...?
